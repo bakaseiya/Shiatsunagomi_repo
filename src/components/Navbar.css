@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+header{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+    padding: 0 2rem;
+    color: var(--textColor);
+    /* border: 1px white solid; */
+}
+
+.border{
+    flex: 1;
+    display: flex;
+    /* border: 1px red solid; */
+    justify-content: flex-end;
+    
+}
+
+
+nav a{
+    margin: 0 2rem;
+    color: var(--textColor);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: "Gabarito", sans-serif;
+    font-weight: bold;
+    font-optical-sizing: auto;
+
+}
+nav {
+    flex: 4;
+    display: flex;
+    /* background-color: rgb(113, 103, 88); */
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    /* box-shadow: 1px 1px 1px 1px #efdeb5aa ; */
+    box-shadow:  4px 8px 0 rgba(0, 0, 0, 0.0 ), 0 6px 20px 0 rgba(0, 0, 0, 0.0);
+}
+
+nav a:hover{
+    color: white;
+}
+
+header .nav-btn {
+    padding: 5px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--textColor);
+    visibility: hidden;
+    opacity: 0;
+    font-size: 1.8rem;
+  }
+
+/* Media query per schermi piccoli */
+@media only screen and (max-width: 1024px) {
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    header .nav-btn--burger {
+        position: absolute;
+        visibility: visible;
+        opacity: 1;
+        left: 30px;
+    }
+
+    header nav {
+        position: fixed;
+        top: -100vh;
+        left: 0; /* Menu parte da sinistra */
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+        background-image: url(../images/DSC_2637.jpg);
+        box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.4 );
+        background-size: cover;
+        transition: 1s;
+    }
+
+    header .responsive_nav {
+        transform: translateY(100vh);
+    }
+
+    nav .nav-close-btn {
+        opacity: 1;
+        position: absolute;
+        visibility: visible;
+        top: 3rem;
+        right: 2rem;
+        color:var(--textColor);
+    }
+
+    nav a {
+        font-size: 1.5rem;
+        color: var(--textColor);
+    }
+}
