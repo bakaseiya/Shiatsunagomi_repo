@@ -7,9 +7,9 @@ import Aboutme from './pages/Aboutme';
 export default function App() {
   return (
   
-    <BrowserRouter>
+    <BrowserRouter basename="/Shiatsunagomi_repo">
       <Routes>
-        <Route path="shiatsunagomi_repo" element={<Home/>}/> 
+        <Route path="/" element={<Home/>}/> 
         <Route path="/About_me" element={<Aboutme/>}/>
       </Routes>
     </BrowserRouter>

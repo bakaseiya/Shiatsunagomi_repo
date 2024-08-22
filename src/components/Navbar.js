@@ -21,7 +21,7 @@ function Navbar() {
             {/* <div className="border">
             </div> */}
 			<nav ref={navRef}>
-				<Link to="/react-test">HOME</Link>
+				<Link to="/">HOME</Link>
 				<Link to="/About_me">CHI SONO</Link>
 				<a href="/#">IL MIO LAVORO</a>
 				<a href="/#">CONTATTI</a>
