@@ -1,0 +1,28 @@
+/* File: styles.css */
+
+.discover-btn {
+  color: var(--textColor); /* Colore del testo, usa una variabile CSS o specifica il colore direttamente */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 40px; /* Gestisci la dimensione tramite il padding */
+  font-size: 1.5rem;
+  transition: transform 0.6s ease; /* Transizione per effetti al passaggio del mouse */
+  background: transparent; /* Sfondo trasparente */
+  border: none; /* Nessun bordo */
+  border-radius: 10px; /* Arrotondamento dei bordi, puoi cambiare il valore per maggiore o minore arrotondamento */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.9); /* Ombreggiatura per dare profondità */
+  text-decoration: none; /* Rimuove la sottolineatura se applicabile */
+  cursor: pointer; /* Cambia il cursore al passaggio del mouse */
+}
+
+a.carousel-control
+{
+    width: 40px;
+    height: 24px;
+}
+    
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  width: 4rem !important;
+  height: 4rem !important;
+}

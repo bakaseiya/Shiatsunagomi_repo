@@ -1,0 +1,8 @@
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Imposta l'altezza del carousel per riempire l'intero schermo */
+    object-fit: cover;
+  }
+

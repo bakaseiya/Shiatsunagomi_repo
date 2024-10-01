@@ -1,0 +1,27 @@
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Imposta l'altezza del carousel per riempire l'intero schermo */
+    object-fit: cover;
+  }
+
+.custom-itm{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  // border: 1px red solid; 
+}
+
+.custom-caption {
+  position: absolute;
+  top: 30%;  /* Posiziona al centro verticalmente */
+  left: 10%; /* Posiziona a sinistra con un margine del 10% */
+  transform: translateY(-50%); /* Centra verticalmente */
+  color: white; /* Colore del testo */
+  background-color: rgba(0, 0, 0, 0.3); /* Sfondo semitrasparente */
+  padding: 1rem; /* Padding per il contenuto */
+  width: 30%; /* Larghezza della didascalia, puoi modificarla se necessario */
+  text-align: left; /* Allinea il testo a sinistra */
+  border-radius: 10px;
+}

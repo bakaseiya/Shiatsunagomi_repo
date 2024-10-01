@@ -1,0 +1,34 @@
+/* Popup.css */
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000; /* Assicurati che il popup sia sopra tutti gli altri elementi */
+  }
+  
+  .popup-content {
+    background: rgb(63, 55, 55);
+    padding: 2rem;
+    border-radius: 5px;
+    position: relative;
+    max-width: 40vw; /* Imposta una larghezza massima responsiva */
+    max-height: 20vh; /* Imposta un'altezza massima responsiva */
+    overflow: auto; /* Aggiunge lo scroll se il contenuto è troppo grande */
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
+  
