@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.3d77238c.css",
-    "main.js": "/Shiatsunagomi_repo/static/js/main.29d505b0.js",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.3d66ad7d.css",
+    "main.js": "/Shiatsunagomi_repo/static/js/main.88bbe5ed.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
     "static/media/DSC_2617.jpg": "/Shiatsunagomi_repo/static/media/DSC_2617.eb4fdc99a7d836641404.jpg",
     "static/media/chieri4.jpg": "/Shiatsunagomi_repo/static/media/chieri4.86557fd05204e434ca17.jpg",
@@ -22,15 +22,14 @@
     "static/media/Insta.svg": "/Shiatsunagomi_repo/static/media/Insta.787b1447c6450bcdbb2fdcba9c894a7f.svg",
     "static/media/facebook.svg": "/Shiatsunagomi_repo/static/media/facebook.1d8e0397525aadb52a029adc60908a02.svg",
     "static/media/Whats.svg": "/Shiatsunagomi_repo/static/media/Whats.c8cdd8f441263251f5b6bd1c7e10ab88.svg",
-    "static/media/maps.svg": "/Shiatsunagomi_repo/static/media/maps.e8e5c0007520e176302ca6d2402c1b5c.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/gmail.svg": "/Shiatsunagomi_repo/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
-    "main.3d77238c.css.map": "/Shiatsunagomi_repo/static/css/main.3d77238c.css.map",
-    "main.29d505b0.js.map": "/Shiatsunagomi_repo/static/js/main.29d505b0.js.map",
+    "main.3d66ad7d.css.map": "/Shiatsunagomi_repo/static/css/main.3d66ad7d.css.map",
+    "main.88bbe5ed.js.map": "/Shiatsunagomi_repo/static/js/main.88bbe5ed.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d77238c.css",
-    "static/js/main.29d505b0.js"
+    "static/css/main.3d66ad7d.css",
+    "static/js/main.88bbe5ed.js"
   ]
 }
