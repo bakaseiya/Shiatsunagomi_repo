@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.63c8993e.css",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.d4fd115d.css",
     "main.js": "/Shiatsunagomi_repo/static/js/main.0efb6a3e.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
     "static/media/DSC_2617.jpg": "/Shiatsunagomi_repo/static/media/DSC_2617.eb4fdc99a7d836641404.jpg",
@@ -26,12 +26,12 @@
     "static/media/Whats.svg": "/Shiatsunagomi_repo/static/media/Whats.c8cdd8f441263251f5b6bd1c7e10ab88.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/gmail.svg": "/Shiatsunagomi_repo/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
-    "main.63c8993e.css.map": "/Shiatsunagomi_repo/static/css/main.63c8993e.css.map",
+    "main.d4fd115d.css.map": "/Shiatsunagomi_repo/static/css/main.d4fd115d.css.map",
     "main.0efb6a3e.js.map": "/Shiatsunagomi_repo/static/js/main.0efb6a3e.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c8993e.css",
+    "static/css/main.d4fd115d.css",
     "static/js/main.0efb6a3e.js"
   ]
 }
