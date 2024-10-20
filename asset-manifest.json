@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.d4fd115d.css",
-    "main.js": "/Shiatsunagomi_repo/static/js/main.0efb6a3e.js",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.29457519.css",
+    "main.js": "/Shiatsunagomi_repo/static/js/main.a467e9a5.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
-    "static/media/DSC_2617.jpg": "/Shiatsunagomi_repo/static/media/DSC_2617.eb4fdc99a7d836641404.jpg",
     "static/media/chieri4.jpg": "/Shiatsunagomi_repo/static/media/chieri4.86557fd05204e434ca17.jpg",
     "static/media/chieri_not_formatted1.jpg": "/Shiatsunagomi_repo/static/media/chieri_not_formatted1.67910da1a949cc132acf.jpg",
     "static/media/chieri2.jpg": "/Shiatsunagomi_repo/static/media/chieri2.cb2d93d40d2d8adaed0b.jpg",
     "static/media/DSC_2540.jpg": "/Shiatsunagomi_repo/static/media/DSC_2540.ee7a330048cba1e374e6.jpg",
     "static/media/DSC_2637.jpg": "/Shiatsunagomi_repo/static/media/DSC_2637.fa0cb2629fd8a56cc8b1.jpg",
     "static/media/DSC_2495.jpeg": "/Shiatsunagomi_repo/static/media/DSC_2495.17c69ced4c0b98983fef.jpeg",
-    "static/media/Lavoro2mobile.jpeg": "/Shiatsunagomi_repo/static/media/Lavoro2mobile.e8b81b3de9bba82dc90b.jpeg",
+    "static/media/Studio4_scelta.png": "/Shiatsunagomi_repo/static/media/Studio4_scelta.5846a4896bef6b08e6c1.png",
     "static/media/Home_full_16.jpeg": "/Shiatsunagomi_repo/static/media/Home_full_16.a4aafa86c628ade3a965.jpeg",
+    "static/media/Studio5_scelta.png": "/Shiatsunagomi_repo/static/media/Studio5_scelta.a6aa908b1b611202a41a.png",
     "static/media/Home16_9.jpeg": "/Shiatsunagomi_repo/static/media/Home16_9.bbf274c7b3b186917e49.jpeg",
     "static/media/home_mobile.jpeg": "/Shiatsunagomi_repo/static/media/home_mobile.eddfd76532efe08dcd3e.jpeg",
-    "static/media/Lavoro3mobile.jpeg": "/Shiatsunagomi_repo/static/media/Lavoro3mobile.a896791ca8335def127d.jpeg",
-    "static/media/Lavoro1mobile.jpeg": "/Shiatsunagomi_repo/static/media/Lavoro1mobile.00d2883d91f54bc31c63.jpeg",
-    "static/media/chieri.jpeg": "/Shiatsunagomi_repo/static/media/chieri.5ac540261ddb2e571668.jpeg",
-    "static/media/Studio3.jpeg": "/Shiatsunagomi_repo/static/media/Studio3.87aad8882b70a638b549.jpeg",
-    "static/media/Studio1.jpeg": "/Shiatsunagomi_repo/static/media/Studio1.0547562ff695b350a48f.jpeg",
     "static/media/Studio2.jpeg": "/Shiatsunagomi_repo/static/media/Studio2.e40768c809bd4c8d351c.jpeg",
     "static/media/nero.png": "/Shiatsunagomi_repo/static/media/nero.1ca97271549326b52e25.png",
     "static/media/vanilla.png": "/Shiatsunagomi_repo/static/media/vanilla.160923888333f0084e95.png",
@@ -26,12 +21,12 @@
     "static/media/Whats.svg": "/Shiatsunagomi_repo/static/media/Whats.c8cdd8f441263251f5b6bd1c7e10ab88.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/gmail.svg": "/Shiatsunagomi_repo/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
-    "main.d4fd115d.css.map": "/Shiatsunagomi_repo/static/css/main.d4fd115d.css.map",
-    "main.0efb6a3e.js.map": "/Shiatsunagomi_repo/static/js/main.0efb6a3e.js.map",
+    "main.29457519.css.map": "/Shiatsunagomi_repo/static/css/main.29457519.css.map",
+    "main.a467e9a5.js.map": "/Shiatsunagomi_repo/static/js/main.a467e9a5.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4fd115d.css",
-    "static/js/main.0efb6a3e.js"
+    "static/css/main.29457519.css",
+    "static/js/main.a467e9a5.js"
   ]
 }
