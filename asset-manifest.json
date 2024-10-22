@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.29457519.css",
-    "main.js": "/Shiatsunagomi_repo/static/js/main.a467e9a5.js",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.87828479.css",
+    "main.js": "/Shiatsunagomi_repo/static/js/main.64db647c.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
     "static/media/chieri4.jpg": "/Shiatsunagomi_repo/static/media/chieri4.86557fd05204e434ca17.jpg",
     "static/media/chieri_not_formatted1.jpg": "/Shiatsunagomi_repo/static/media/chieri_not_formatted1.67910da1a949cc132acf.jpg",
@@ -21,12 +21,12 @@
     "static/media/Whats.svg": "/Shiatsunagomi_repo/static/media/Whats.c8cdd8f441263251f5b6bd1c7e10ab88.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/gmail.svg": "/Shiatsunagomi_repo/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
-    "main.29457519.css.map": "/Shiatsunagomi_repo/static/css/main.29457519.css.map",
-    "main.a467e9a5.js.map": "/Shiatsunagomi_repo/static/js/main.a467e9a5.js.map",
+    "main.87828479.css.map": "/Shiatsunagomi_repo/static/css/main.87828479.css.map",
+    "main.64db647c.js.map": "/Shiatsunagomi_repo/static/js/main.64db647c.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29457519.css",
-    "static/js/main.a467e9a5.js"
+    "static/css/main.87828479.css",
+    "static/js/main.64db647c.js"
   ]
 }
