@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.1f3fc0b4.css",
-    "main.js": "/Shiatsunagomi_repo/static/js/main.7bbc7857.js",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.c915b63d.css",
+    "main.js": "/Shiatsunagomi_repo/static/js/main.6a39a4be.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
     "static/media/chieri4.jpg": "/Shiatsunagomi_repo/static/media/chieri4.86557fd05204e434ca17.jpg",
     "static/media/chieri_not_formatted1.jpg": "/Shiatsunagomi_repo/static/media/chieri_not_formatted1.67910da1a949cc132acf.jpg",
@@ -14,19 +14,23 @@
     "static/media/Studio5_scelta.png": "/Shiatsunagomi_repo/static/media/Studio5_scelta.a6aa908b1b611202a41a.png",
     "static/media/Home16_9.jpeg": "/Shiatsunagomi_repo/static/media/Home16_9.bbf274c7b3b186917e49.jpeg",
     "static/media/home_mobile.jpeg": "/Shiatsunagomi_repo/static/media/home_mobile.eddfd76532efe08dcd3e.jpeg",
+    "static/media/Studio6.jpeg": "/Shiatsunagomi_repo/static/media/Studio6.1194093d4ad3185f828b.jpeg",
+    "static/media/Indicazioni3.jpeg": "/Shiatsunagomi_repo/static/media/Indicazioni3.4c68db69ca5557aadb93.jpeg",
+    "static/media/Indicazioni2.jpeg": "/Shiatsunagomi_repo/static/media/Indicazioni2.8cc085d5f4adb706c4e7.jpeg",
     "static/media/Studio2.jpeg": "/Shiatsunagomi_repo/static/media/Studio2.e40768c809bd4c8d351c.jpeg",
+    "static/media/Indicazioni1.jpeg": "/Shiatsunagomi_repo/static/media/Indicazioni1.46eff7fd8d377ce69703.jpeg",
     "static/media/nero.png": "/Shiatsunagomi_repo/static/media/nero.1ca97271549326b52e25.png",
     "static/media/vanilla.png": "/Shiatsunagomi_repo/static/media/vanilla.160923888333f0084e95.png",
     "static/media/Insta.svg": "/Shiatsunagomi_repo/static/media/Insta.787b1447c6450bcdbb2fdcba9c894a7f.svg",
     "static/media/Whats.svg": "/Shiatsunagomi_repo/static/media/Whats.c8cdd8f441263251f5b6bd1c7e10ab88.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/gmail.svg": "/Shiatsunagomi_repo/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
-    "main.1f3fc0b4.css.map": "/Shiatsunagomi_repo/static/css/main.1f3fc0b4.css.map",
-    "main.7bbc7857.js.map": "/Shiatsunagomi_repo/static/js/main.7bbc7857.js.map",
+    "main.c915b63d.css.map": "/Shiatsunagomi_repo/static/css/main.c915b63d.css.map",
+    "main.6a39a4be.js.map": "/Shiatsunagomi_repo/static/js/main.6a39a4be.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3fc0b4.css",
-    "static/js/main.7bbc7857.js"
+    "static/css/main.c915b63d.css",
+    "static/js/main.6a39a4be.js"
   ]
 }
