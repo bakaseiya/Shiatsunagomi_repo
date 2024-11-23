@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shiatsunagomi_repo/static/css/main.1ec5eeb8.css",
-    "main.js": "/Shiatsunagomi_repo/static/js/main.30b240c8.js",
+    "main.css": "/Shiatsunagomi_repo/static/css/main.49674897.css",
+    "main.js": "/Shiatsunagomi_repo/static/js/main.5e9f527f.js",
     "static/js/453.e948f36d.chunk.js": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js",
     "static/media/chieri4.jpg": "/Shiatsunagomi_repo/static/media/chieri4.86557fd05204e434ca17.jpg",
     "static/media/chieri_not_formatted1.jpg": "/Shiatsunagomi_repo/static/media/chieri_not_formatted1.67910da1a949cc132acf.jpg",
@@ -12,6 +12,7 @@
     "static/media/Studio4_scelta.png": "/Shiatsunagomi_repo/static/media/Studio4_scelta.5846a4896bef6b08e6c1.png",
     "static/media/Home_full_16.jpeg": "/Shiatsunagomi_repo/static/media/Home_full_16.a4aafa86c628ade3a965.jpeg",
     "static/media/Studio5_scelta.png": "/Shiatsunagomi_repo/static/media/Studio5_scelta.a6aa908b1b611202a41a.png",
+    "static/media/Indicazioni_alto.png": "/Shiatsunagomi_repo/static/media/Indicazioni_alto.f463b2c9497343a8f1ec.png",
     "static/media/Home16_9.jpeg": "/Shiatsunagomi_repo/static/media/Home16_9.bbf274c7b3b186917e49.jpeg",
     "static/media/home_mobile.jpeg": "/Shiatsunagomi_repo/static/media/home_mobile.eddfd76532efe08dcd3e.jpeg",
     "static/media/Studio6.jpeg": "/Shiatsunagomi_repo/static/media/Studio6.1194093d4ad3185f828b.jpeg",
@@ -25,12 +26,12 @@
     "static/media/whatsapp.svg": "/Shiatsunagomi_repo/static/media/whatsapp.c6689414c778cb0f7d74609a43b76eb3.svg",
     "index.html": "/Shiatsunagomi_repo/index.html",
     "static/media/mail.svg": "/Shiatsunagomi_repo/static/media/mail.e767ff52ed316f3ea877c9f191a386d6.svg",
-    "main.1ec5eeb8.css.map": "/Shiatsunagomi_repo/static/css/main.1ec5eeb8.css.map",
-    "main.30b240c8.js.map": "/Shiatsunagomi_repo/static/js/main.30b240c8.js.map",
+    "main.49674897.css.map": "/Shiatsunagomi_repo/static/css/main.49674897.css.map",
+    "main.5e9f527f.js.map": "/Shiatsunagomi_repo/static/js/main.5e9f527f.js.map",
     "453.e948f36d.chunk.js.map": "/Shiatsunagomi_repo/static/js/453.e948f36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ec5eeb8.css",
-    "static/js/main.30b240c8.js"
+    "static/css/main.49674897.css",
+    "static/js/main.5e9f527f.js"
   ]
 }
